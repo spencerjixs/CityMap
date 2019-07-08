@@ -1,0 +1,48 @@
+<div class="d-flex justify-content-center align-items-center container ">  
+    <div class="row ">
+        <form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+            <div class="form-row align-items-center">
+                <div class="col-auto">
+                    <label class="sr-only" for="inlineFormInput">ZipCode</label>
+                    <input name="zipCode" #zipCode="ngModel" [(ngModel)]="service.formData.zipCode" (ngModelChange)="zipCodeChanged($event)" maxlength="5" minlength="5" class="form-control mb-2" id="inlineFormInput" placeholder="Enter 5 digit zip code" required>
+                    <div class="validation-error" *ngIf="zipCode.invalid && zipCode.touched">Invalid zip code.</div>
+                </div>
+                <div class="col-auto">
+                    <button type="submit" [disabled]="form.invalid" class="btn btn-primary mb-2"><i class="fas fa-cloud-sun"></i> Search <i class="fas fa-search-location"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div *ngIf="showResult" class="container text-center">
+    <div class="d-flex justify-content-center align-items-center container ">  
+        <div class="row ">
+            <ul class="list-group">
+                <li class="list-group-item"><i class="fas fa-temperature-high"></i> Temperature in {{service.formData.city}} {{service.formData.zipCode}}: {{service.formData.temperature}}°F</li>
+                <li class="list-group-item"><i class="fas fa-clock"></i> Time Zone: {{service.formData.timeZone}}</li>
+                <li class="list-group-item"><i class="fas fa-globe-americas"></i> Elevation: {{service.formData.elevation}}, Geo coords: [{{service.formData.latitude}}, {{service.formData.longitude}}]</li>
+            </ul>
+        </div>
+    </div>
+    <hr>
+    <div class="container text-center">
+        <agm-map [latitude]="service.formData.latitude" [zoom]="15" [longitude]="service.formData.longitude">
+            <agm-marker  [latitude]="service.formData.latitude" [longitude]="service.formData.longitude">
+                <agm-snazzy-info-window [maxWidth]="300" [closeWhenOthersOpen]="true" [isOpen]="true">
+                    <ng-template>
+                        <p>City: {{service.formData.city}}</p>
+                        <p>Temperature: {{service.formData.temperature}}°F</p>
+                        <p>Elevation: {{service.formData.elevation}}</p> 
+                        <p>{{service.formData.timeZone}}</p>                                   
+                    </ng-template>
+                </agm-snazzy-info-window>
+            </agm-marker>
+        </agm-map>
+    </div>
+</div>
+
+<div *ngIf="showError" class="container text-center">
+    <div class="alert alert-warning">
+        <strong><i class="fas fa-times-circle"></i> No reslut found!</strong>
+    </div>
+</div>

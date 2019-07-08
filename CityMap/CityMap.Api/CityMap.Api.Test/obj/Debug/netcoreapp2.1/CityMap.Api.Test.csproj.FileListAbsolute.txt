@@ -1,0 +1,14 @@
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\CityMap.Api.Test.deps.json
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\CityMap.Api.Test.runtimeconfig.json
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\CityMap.Api.Test.runtimeconfig.dev.json
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\CityMap.Api.Test.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\bin\Debug\netcoreapp2.1\CityMap.Api.Test.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.csproj.CoreCompileInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.AssemblyInfoInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.AssemblyInfo.cs
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Api.Test\obj\Debug\netcoreapp2.1\CityMap.Api.Test.csprojAssemblyReference.cache

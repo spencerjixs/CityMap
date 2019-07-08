@@ -1,0 +1,12 @@
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\bin\Debug\netstandard2.0\CityMap.DataAccess.deps.json
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\bin\Debug\netstandard2.0\CityMap.DataAccess.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\bin\Debug\netstandard2.0\CityMap.DataAccess.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.csprojAssemblyReference.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.csproj.CoreCompileInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.AssemblyInfoInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.AssemblyInfo.cs
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\bin\Debug\netstandard2.0\CityMap.Models.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\bin\Debug\netstandard2.0\CityMap.Models.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.DataAccess\obj\Debug\netstandard2.0\CityMap.DataAccess.csproj.CopyComplete

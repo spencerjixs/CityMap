@@ -1,0 +1,9 @@
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\bin\Debug\netstandard2.0\CityMap.Models.deps.json
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\bin\Debug\netstandard2.0\CityMap.Models.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\bin\Debug\netstandard2.0\CityMap.Models.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.csproj.CoreCompileInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.AssemblyInfoInputs.cache
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.AssemblyInfo.cs
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.dll
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.pdb
+C:\StudySpace\CityMap\CityMap.Api\CityMap.Models\obj\Debug\netstandard2.0\CityMap.Models.csprojAssemblyReference.cache
